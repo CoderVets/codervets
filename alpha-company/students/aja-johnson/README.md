@@ -57,9 +57,9 @@ Explore the training I've received and development community experiences I've ha
 
 | Course Component     | Status | Link   |
 | :------- | :---- | :--- |
-| Community | Ongoing |  <a name="community"/>[Community][2]    |
 | Coursework    | Underway   |  <a name="coursework"/>[Coursework][3]   |
 | Fieldwork     | Underway    |  <a name="fieldwork"/>[Fieldwork][4]  |
+| Community | Ongoing |  <a name="community"/>[Community][2]    |
 
 ## Software Development Training <a name="skills"/>
 I've learned key software development skills and gained exposure and experience in the following technical and practice areas in the CoderVets "Alpha Company" program.
