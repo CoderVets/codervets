@@ -10,7 +10,7 @@ Aja Johnson
 
 [My Training Overview](#training)
 
-       -[Coursework](#coursework)
+[Coursework](#coursework)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fieldwork](#fieldwork)
 
