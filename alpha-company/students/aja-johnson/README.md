@@ -50,8 +50,6 @@ Aja Johnson
 ## About Me <a name="aboutme"/>
 Hello world! I'm Aja Johnson.
 
-<link href="https://google.com" target="_blank">
-
 Write some "about me" stuff here.
 
 ## My Training Overview <a name="training"/>
